@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+"Ingresa un numero de 2 cifras;"
+5
+1
+1
+N
+6
+3
+1
+D
+11
+Trunc(N/10)
+1
+U
+8
+N mod 10
+1
+I
+8
+(U*10)+D
+4
+1
+36
+"tu numero:",N, "  invertido es:", I
+1

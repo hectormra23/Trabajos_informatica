@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+"Cuanto gastaste?"
+5
+1
+1
+G
+7
+0
+1
+7
+G>=1000
+4
+1
+23
+"gastas menos de 1000$"
+4
+1
+32
+"no se aplicara un desuento UnU"
+13
+4
+1
+21
+"gastas mas de 1000$"
+4
+1
+33
+"SE aplicara el 20% de descuento"
+6
+1
+1
+d
+12
+g-(g*20)/100
+4
+1
+19
+"precio final:" , d
+13
+1

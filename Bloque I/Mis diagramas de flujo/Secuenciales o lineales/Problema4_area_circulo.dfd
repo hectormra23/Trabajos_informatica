@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+40
+"ingresa el valor del radio del circulo"
+5
+1
+1
+r
+6
+1
+1
+A
+12
+(r*r)*3.1416
+4
+1
+28
+"el area del ciculo es:" , A
+1

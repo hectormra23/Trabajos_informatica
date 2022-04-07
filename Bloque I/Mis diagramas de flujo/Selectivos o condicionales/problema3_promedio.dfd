@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+"Ingresa tus 5 calificaciones:"
+5
+1
+1
+a
+5
+1
+1
+b
+5
+1
+1
+c
+5
+1
+1
+d
+5
+1
+1
+e
+6
+1
+1
+p
+13
+(a+b+c+d+e)/5
+7
+0
+1
+6
+p >= 6
+13
+4
+1
+38
+"tu promedio es:" , p ,"  hacreditado"
+13
+4
+1
+41
+"tu promedio es:" , p ,"  no hacreditado"
+1

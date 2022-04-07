@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+"Ingresa el valor de la base"
+5
+1
+1
+B
+4
+1
+31
+"Ingresa el valor de la altura"
+5
+1
+1
+H
+6
+1
+1
+A
+7
+(B*H)/2
+4
+1
+19
+"El area es :" ,  A
+1

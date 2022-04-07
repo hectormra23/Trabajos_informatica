@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+"Ingresa tu edad"
+5
+1
+1
+e
+7
+0
+1
+7
+e >= 18
+4
+1
+44
+"  no puedes votar " , "  tu edad es...:", e
+13
+4
+1
+43
+  "  puedes votar " , "  tu edad es...:", e
+13
+1

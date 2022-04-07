@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+41
+"Ingresa un numero(negativo o positivo):"
+5
+1
+1
+N
+7
+0
+1
+3
+N>0
+13
+6
+1
+1
+C
+6
+N*(-1)
+4
+1
+23
+"Tu numero es positivo"
+4
+1
+45
+"Tu numero: ",N,"convertido a negativo es:",C
+13
+6
+1
+1
+C
+6
+N*(-1)
+4
+1
+23
+"Tu numero es negativo"
+4
+1
+76
+" Tu numero negativo:",   N                 ,"convertido a positivo es:"  ,C
+1

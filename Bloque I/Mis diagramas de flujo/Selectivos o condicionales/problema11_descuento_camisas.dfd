@@ -1,0 +1,72 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+"cuantas camisas compraste?"
+5
+1
+1
+c
+6
+1
+2
+pt
+5
+c*350
+7
+0
+1
+4
+c>=3
+6
+1
+2
+d2
+16
+pt-((pt*10)/100)
+4
+1
+32
+"compraste menos de 3  camisas "
+4
+1
+34
+"Se aplciara un descuento del 10%"
+4
+1
+19
+"Precio total:", pt
+4
+1
+21
+"con descuento:" , d2
+13
+6
+1
+2
+d1
+16
+pt-((pt*20)/100)
+4
+1
+28
+"compraste 3 o mas camisas "
+4
+1
+34
+"Se aplciara un descuento del 20%"
+4
+1
+19
+"Precio total:", pt
+4
+1
+21
+"con descuento:" , d1
+13
+1
